@@ -1,0 +1,172 @@
+.main_layout{
+    width: 1000px;
+    height: 2100px;
+    background-color: antiquewhite;
+    margin: 0px auto;
+}
+.logo{
+    width: 98px;
+    height: 48px;
+    background-color: rgba(0, 0, 0, 0.6);
+    float: left;
+    margin: 5px 0px 0px 25px;
+    border: 1px solid black;
+}
+.nav_bar{
+    width: 850px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    float: left;
+    margin: 5px 25px 0px 0px;
+
+}
+.slider{
+     width: 950px;
+     height: 400px;
+     background-color: rgba(0, 0, 0, 0.4);
+     float: left;
+     margin: 5px 25px 5px 25px;
+}
+.about-img{
+    width: 400px;
+    height: 400px;
+    margin: 10px 0px 0px 0px;
+    float: left;
+    background-color: rgba(158, 27, 27, 0.4);
+
+}
+.content{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin: 10px 25px 0px 25px;
+
+}
+.content h2{
+     color: rgb(52, 165, 105);
+}
+.content p{
+    font-size: 26px;
+    margin-top: -15px;
+}
+.about-btn{
+    width: 100px;
+    height: 30px;
+    background-color: brown;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.service{
+    width: 950px;
+    height: 400px;
+    margin: 10px 0px 0px 0px;
+    float: left;
+}
+.service h1{
+     text-align: center;
+     color: brown;
+     font-size: 40px;
+}
+.box1{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(46, 49, 43, 0.589);
+    float: left;
+    margin: 0px 25px 0px 0px;
+    border-radius: 20px;
+}
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(46, 49, 43, 0.589);
+    float: left;
+    margin: 0px 25px 0px 0px;
+    border-radius: 20px;
+}
+.box3{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(46, 49, 43, 0.589);
+    float: left;
+    margin: 0px 0px 0px 0px;
+    border-radius: 20px;
+}
+.icon{
+    text-align: center;
+    margin-top: 20px;
+}
+.fa-desktop{
+    font-size: 35px;
+    color: rgb(233, 28, 188);
+}
+.fa-pen-nib{
+    font-size: 35px;
+    color: rgb(233, 28, 188);
+}
+.fa-wordpress{
+    font-size: 35px;
+    color: rgb(233, 28, 188);
+}
+.my-skills{
+    width: 950px;
+    height: 400px;
+    
+    float: left;
+    margin-top: 20px;
+}
+.my-skills h1{
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+.skill-img{
+    width: 220px;
+    height: 220px;
+ 
+    margin: 0px 20px 0px 0px;
+    float: left;
+}
+.skill-imgg{
+    width: 220px;
+    height: 220px;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.footer-icon{
+   width: 950px;
+   background-color: rgba(46, 49, 43, 0.589);
+   height: 180px;
+   float: left;
+   margin-top: 200px;
+   text-align: center;
+
+}
+.footer-icon h2{
+    text-align: center;
+    color: brown;
+}
+.fa-facebook{
+    font-size: 30px;
+    color: blue;
+}
+.fa-twitter{
+    font-size: 30px;
+    color:green;
+}
+.fa-instagram{
+    font-size: 30px;
+    color: brown;
+}
+.fa-github{
+    font-size: 30px;
+    color: black;
+}
+
+
+
+
+
+
+
